@@ -4,8 +4,9 @@ while True:
     produkt = int(input("Wurde ein Produkt gekauft? [0] Nein / [1] Ja: "))
     if produkt == 0:
         break
-    preis = float(input("Wie viel kostet das Produkt? "))
-    gesamtpreis += preis
+    else:
+        preis = float(input("Wie viel kostet das Produkt? "))
+        gesamtpreis += preis
 
 print("Gesamtpreis:", round(gesamtpreis, 2), "Euro")
 
