@@ -10,6 +10,7 @@ In einem Programm soll der Nutzer die Möglichkeit erhalten, seine Einkäufe sel
 - Liegt der Gesamtpreis bei mind. 20,00 €, wird ausgegeben: „Danke, dass Sie einen großen Einkauf getätigt haben!“
 - Liegt der Gesamtpreis zwischen 0,01 € und 19,99 €, wird ausgegeben:„Danke, dass Sie einen kleinen Einkauf getätigt haben!“
 
-
+1. Setzen Sie das Programm als Code um.
+2. Zeichnen Sie ein dazu passendes UML-Akivitätsdiagramm.
 
 

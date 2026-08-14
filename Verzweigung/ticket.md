@@ -1,5 +1,7 @@
 # Ticket
 
+### Schwiergkeitsgrad: **
+
 Schreiben Sie ein Programm, das den Preis eines Tickets für einen Freizeitpark basierend auf dem Alter des Besuchers und bestimmten Sonderbedingungen be-rechnet.  
   
 

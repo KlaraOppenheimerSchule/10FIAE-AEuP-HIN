@@ -9,15 +9,13 @@ while flasche <= 10:
     
     # Eingabevalidierungsschleife
     while True:
-        try:
-            menge = float(input("Wie viel ml wurden eingefüllt? "))
-            if menge <= 0:
-                print("Bitte eine positive Zahl eingeben.")
-            else:
-                break
-        except ValueError:
-            print("Ungültige Eingabe. Bitte eine Zahl eingeben.")
-    
+        
+        menge = float(input("Wie viel ml wurden eingefüllt? "))
+        if menge <= 0:
+            print("Bitte eine positive Zahl eingeben.")
+        else:
+            break
+       
     # Verzweigung zur Bewertung
     if 490 <= menge <= 510:
         print("→ akzeptabel")
