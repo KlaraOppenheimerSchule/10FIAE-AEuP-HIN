@@ -19,9 +19,8 @@ for i in range(0, grenze + 1):
 
     if i % 3 == 0:
         print("(durch 3 teilbar)")
-    else:
-        print()
-
+   
+   
 print("\nAuswertung:")
 print("Anzahl gerader Zahlen:", anzahl_gerade)
 print("Anzahl ungerader Zahlen:", anzahl_ungerade)
