@@ -1,7 +1,7 @@
 # Einlass
 
 
-### Schwierigkeit: *
+### Schwierigkeit: **
 
 
 Sie sollen bei der Entwicklung eines Algorithmus helfen, der beim Einlass in den Club enstcheidet, ob die Person in den Club darf. Es gelten folgende Regel:
