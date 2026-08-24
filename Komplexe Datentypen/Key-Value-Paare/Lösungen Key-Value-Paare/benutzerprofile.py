@@ -42,26 +42,6 @@ benutzer_erweitert = {
     }
 }
 
-# Alle Benutzer ausgeben
-print("Benutzerprofile (erweitert):")
-for user_id, daten in benutzer_erweitert.items():
-    print(f"\nID {user_id}:")
-    print(f"  Name: {daten['name']}")
-    print(f"  Alter: {daten['alter']}")
-    print(f"  E-Mail: {daten['email']}")
-
-# Daten zu einer bestimmten ID formatiert ausgeben
-print("\n=== Daten zu einer bestimmten ID ===")
-gesuchte_id = 3
-
-if gesuchte_id in benutzer_erweitert:
-    profil = benutzer_erweitert[gesuchte_id]
-    print(f"Profil von ID {gesuchte_id}:")
-    print(f"  Name: {profil['name']}")
-    print(f"  Alter: {profil['alter']}")
-    print(f"  E-Mail: {profil['email']}")
-else:
-    print(f"Fehler: ID {gesuchte_id} nicht gefunden")
 
 # Neuen Benutzer hinzufügen
 print("\n=== Neuen Benutzer hinzufügen ===")
@@ -89,8 +69,3 @@ print(f"Benutzer ID {aenderungs_id} ({benutzer_erweitert[aenderungs_id]['name']}
 print(f"  Alte E-Mail: {alte_email}")
 print(f"  Neue E-Mail: {neue_email}")
 
-# Alle Benutzer mit Alter > 25 ausgeben
-print("\n=== Benutzer älter als 25 Jahre ===")
-for user_id, daten in benutzer_erweitert.items():
-    if daten['alter'] > 25:
-        print(f"  ID {user_id}: {daten['name']} ({daten['alter']} Jahre)")

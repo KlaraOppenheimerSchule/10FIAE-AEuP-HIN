@@ -1,6 +1,6 @@
 # Fitnesstracker
 
-### Schwierigkeitsgrad: *
+### Schwierigkeitsgrad: **
 
 **Szenario**
 
