@@ -4,7 +4,7 @@
 
 In der Schule gibt es mehrere Arten von Räumen. Der Auszug aus dem UML-Klassendiagramm zeigt die Klasse „Klassenraum“.
 
-![Klassenraum](klassenraum.png)
+![Klassenraum](./KD%20Aufgaben%20OOP%20Teil%202/klassenraum.png)
 
 1. Programmieren Sie die Klasse „Klassenraum“ wie im Diagramm zu sehen.
 2. Erweitern Sie das Klassendiagramm um die Räume „Seminarraum“ und „Uebungsraum“. Beide erben von der Klasse „Klassenraum“. Folgende An-gaben liegen noch vor:
