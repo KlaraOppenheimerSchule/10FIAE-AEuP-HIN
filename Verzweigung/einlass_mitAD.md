@@ -8,7 +8,7 @@ Sie sollen bei der Entwicklung eines Algorithmus helfen, der beim Einlass in den
 
 
 - Ist die Person unter 18 (also minderjährig) und hat keine Begleitperson, so bekommt die Person keinen Einlass.
-- Ist die Person 18 und hat eine erwachsene Begelitperson ( mind. 18 Jahre), so bekommt die Person Einlass in den Club.
+- Ist die Person unter 18 und hat eine erwachsene Begleitperson ( mind. 18 Jahre), so bekommt die Person Einlass in den Club.
 - Ist die Person unter 18 und hat eine oder mehrere minderjährige Personen als Begleitung, so bekommt die Person keinen Einlass.
 - In allen anderen Fällen bekommt die Person Einlass in den Club.
 
