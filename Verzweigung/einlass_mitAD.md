@@ -4,7 +4,7 @@
 ### Schwierigkeit: **
 
 
-Sie sollen bei der Entwicklung eines Algorithmus helfen, der beim Einlass in den Club entscheidet, ob die Person in den Club darf. Es gelten folgende Regel:
+Sie sollen bei der Entwicklung eines Algorithmus helfen, der beim Einlass in den Club entscheidet, ob die Person in den Club darf. Es gelten folgende Regeln:
 
 
 - Ist die Person unter 18 (also minderjährig) und hat keine Begleitperson, so bekommt die Person keinen Einlass.
